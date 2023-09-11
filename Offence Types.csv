@@ -1,0 +1,1124 @@
+Year,Year ending,Offence Division,Offence Subdivision,Offence Subgroup,Offence Count,"Rate per 100,000 population"
+2023,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,57,0.8
+2023,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,24,0.4
+2023,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,22,0.3
+2023,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,96,1.4
+2023,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"6,713",99.3
+2023,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"7,911",117.1
+2023,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","2,971",44.0
+2023,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"16,549",244.9
+2023,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"13,114",194.1
+2023,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"4,432",65.6
+2023,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"5,960",88.2
+2023,March,A Crimes against the person,A30 Sexual offences,A33 Incest,458,6.8
+2023,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"2,290",33.9
+2023,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,982,14.5
+2023,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,188,2.8
+2023,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,479,7.1
+2023,March,A Crimes against the person,A40 Abduction and related offences,A43 Slavery and sexual servitude offences,8,0.1
+2023,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,259",33.4
+2023,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,337,5.0
+2023,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,630,9.3
+2023,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,90,1.3
+2023,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,595",23.6
+2023,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,096",16.2
+2023,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"2,328",34.5
+2023,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,"1,108",16.4
+2023,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"3,816",56.5
+2023,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"3,126",46.3
+2023,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,"1,676",24.8
+2023,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,32,0.5
+2023,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,"1,351",20.0
+2023,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"3,266",48.3
+2023,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"1,787",26.4
+2023,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,23,0.3
+2023,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,291,4.3
+2023,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"35,594",526.8
+2023,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,417",50.6
+2023,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,524,7.8
+2023,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"5,098",75.4
+2023,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,143,2.1
+2023,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,13,0.2
+2023,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"18,177",269.0
+2023,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"11,452",169.5
+2023,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,76,1.1
+2023,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"17,534",259.5
+2023,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"49,884",738.2
+2023,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"22,071",326.6
+2023,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"6,867",101.6
+2023,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"15,130",223.9
+2023,March,B Property and deception offences,B40 Theft,B46 Fare evasion,30,0.4
+2023,March,B Property and deception offences,B40 Theft,B49 Other theft,"43,760",647.6
+2023,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"2,541",37.6
+2023,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,10,0.1
+2023,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"25,450",376.6
+2023,March,B Property and deception offences,B50 Deception,B54 State false information,742,11.0
+2023,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,10,0.1
+2023,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,82,1.2
+2023,March,B Property and deception offences,B50 Deception,B59 Other deception offences,589,8.7
+2023,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,2,0.0
+2023,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,53,0.8
+2023,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"3,965",58.7
+2023,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,887,13.1
+2023,March,C Drug offences,C20 Cultivate or manufacture drugs,C22 Manufacture drugs,2,0.0
+2023,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,"1,058",15.7
+2023,March,C Drug offences,C30 Drug use and possession,C31 Drug use,211,3.1
+2023,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"24,750",366.3
+2023,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,316,4.7
+2023,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"5,273",78.0
+2023,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"9,987",147.8
+2023,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,387,5.7
+2023,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"2,038",30.2
+2023,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"3,096",45.8
+2023,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"2,187",32.4
+2023,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,380,5.6
+2023,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,357",20.1
+2023,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,374,5.5
+2023,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,174,2.6
+2023,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,201,3.0
+2023,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,30,0.4
+2023,March,D Public order and security offences,D30 Public nuisance offences,D34 Defamation and libel,40,0.6
+2023,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"3,410",50.5
+2023,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,15,0.2
+2023,March,D Public order and security offences,D40 Public security offences,D41 Immigration offences,9,0.1
+2023,March,D Public order and security offences,D40 Public security offences,D43 Hacking,623,9.2
+2023,March,D Public order and security offences,D40 Public security offences,D44 Terrorism offences,29,0.4
+2023,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,1,0.0
+2023,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,103,1.5
+2023,March,E Justice procedures offences,E10 Justice procedures,E12 Fail to appear,3,0.0
+2023,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"8,865",131.2
+2023,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,590,8.7
+2023,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,509,7.5
+2023,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"1,996",29.5
+2023,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"54,001",799.2
+2023,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"4,424",65.5
+2023,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"16,190",239.6
+2023,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,"1,491",22.1
+2023,March,F Other offences,F10 Regulatory driving offences,F11 Drink driving,1,0.0
+2023,March,F Other offences,F10 Regulatory driving offences,F15 Licensing offences,2,0.0
+2023,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,10,0.1
+2023,March,F Other offences,F20 Transport regulation offences,F21 Public transport,239,3.5
+2023,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,15,0.2
+2023,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,132,2.0
+2023,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,5,0.1
+2023,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,59,0.9
+2023,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,24,0.4
+2023,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,11,0.2
+2023,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,128,1.9
+2023,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,4,0.1
+2023,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,23,0.3
+2023,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,65,1.0
+2023,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,102,1.5
+2023,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,257,3.8
+2023,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,157,2.3
+2023,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,12,0.2
+2023,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,57,0.8
+2022,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,49,0.7
+2022,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,20,0.3
+2022,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,28,0.4
+2022,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,85,1.3
+2022,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"6,967",105.2
+2022,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"7,690",116.2
+2022,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","3,080",46.5
+2022,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"15,796",238.6
+2022,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"11,412",172.4
+2022,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"4,462",67.4
+2022,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"5,895",89.1
+2022,March,A Crimes against the person,A30 Sexual offences,A33 Incest,449,6.8
+2022,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"2,632",39.8
+2022,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,865,13.1
+2022,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,185,2.8
+2022,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,546,8.2
+2022,March,A Crimes against the person,A40 Abduction and related offences,A43 Slavery and sexual servitude offences,4,0.1
+2022,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,097",31.7
+2022,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,292,4.4
+2022,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,192,2.9
+2022,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,93,1.4
+2022,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,582",23.9
+2022,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,094",16.5
+2022,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"2,277",34.4
+2022,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,"1,191",18.0
+2022,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"4,152",62.7
+2022,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"3,137",47.4
+2022,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,"1,432",21.6
+2022,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,38,0.6
+2022,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,"1,274",19.2
+2022,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"3,343",50.5
+2022,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"1,751",26.5
+2022,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,62,0.9
+2022,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,308,4.7
+2022,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"34,482",520.9
+2022,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,170",47.9
+2022,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,434,6.6
+2022,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"3,921",59.2
+2022,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,118,1.8
+2022,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,6,0.1
+2022,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"16,466",248.7
+2022,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"9,468",143.0
+2022,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,76,1.1
+2022,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"14,872",224.7
+2022,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"47,134",712.0
+2022,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"18,485",279.2
+2022,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"7,042",106.4
+2022,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"14,568",220.1
+2022,March,B Property and deception offences,B40 Theft,B46 Fare evasion,23,0.3
+2022,March,B Property and deception offences,B40 Theft,B49 Other theft,"37,381",564.7
+2022,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"2,808",42.4
+2022,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,11,0.2
+2022,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"23,233",351.0
+2022,March,B Property and deception offences,B50 Deception,B54 State false information,712,10.8
+2022,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,12,0.2
+2022,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,127,1.9
+2022,March,B Property and deception offences,B50 Deception,B59 Other deception offences,"1,215",18.4
+2022,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,6,0.1
+2022,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,63,1.0
+2022,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"3,768",56.9
+2022,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,"1,030",15.6
+2022,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,795,12.0
+2022,March,C Drug offences,C30 Drug use and possession,C31 Drug use,279,4.2
+2022,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"23,751",358.8
+2022,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,183,2.8
+2022,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"5,471",82.6
+2022,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"9,142",138.1
+2022,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,289,4.4
+2022,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"2,088",31.5
+2022,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"3,112",47.0
+2022,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"2,228",33.7
+2022,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,439,6.6
+2022,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,078",16.3
+2022,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,230,3.5
+2022,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,555,8.4
+2022,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,250,3.8
+2022,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,17,0.3
+2022,March,D Public order and security offences,D30 Public nuisance offences,D34 Defamation and libel,1,0.0
+2022,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"3,079",46.5
+2022,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,60,0.9
+2022,March,D Public order and security offences,D40 Public security offences,D41 Immigration offences,1,0.0
+2022,March,D Public order and security offences,D40 Public security offences,D43 Hacking,58,0.9
+2022,March,D Public order and security offences,D40 Public security offences,D44 Terrorism offences,8,0.1
+2022,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,98,1.5
+2022,March,E Justice procedures offences,E10 Justice procedures,E12 Fail to appear,1,0.0
+2022,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"8,873",134.0
+2022,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,634,9.6
+2022,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,571,8.6
+2022,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"1,971",29.8
+2022,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"51,210",773.6
+2022,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"4,369",66.0
+2022,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"11,339",171.3
+2022,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,"1,218",18.4
+2022,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,19,0.3
+2022,March,F Other offences,F20 Transport regulation offences,F21 Public transport,122,1.8
+2022,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,24,0.4
+2022,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,156,2.4
+2022,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,6,0.1
+2022,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,24,0.4
+2022,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,19,0.3
+2022,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,36,0.5
+2022,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,122,1.8
+2022,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,2,0.0
+2022,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,151,2.3
+2022,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,81,1.2
+2022,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,67,1.0
+2022,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,"10,478",158.3
+2022,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,176,2.7
+2022,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,29,0.4
+2022,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,144,2.2
+2021,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,61,0.9
+2021,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,18,0.3
+2021,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,34,0.5
+2021,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,83,1.3
+2021,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"7,535",115.1
+2021,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"7,479",114.2
+2021,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","3,514",53.7
+2021,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"16,165",246.9
+2021,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"11,003",168.0
+2021,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"4,466",68.2
+2021,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"5,593",85.4
+2021,March,A Crimes against the person,A30 Sexual offences,A33 Incest,502,7.7
+2021,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"2,762",42.2
+2021,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,829,12.7
+2021,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,183,2.8
+2021,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,592,9.0
+2021,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,277",34.8
+2021,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,317,4.8
+2021,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,157,2.4
+2021,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,87,1.3
+2021,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,562",23.9
+2021,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,304",19.9
+2021,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"2,102",32.1
+2021,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,"1,337",20.4
+2021,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"4,356",66.5
+2021,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"3,418",52.2
+2021,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,"1,391",21.2
+2021,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,23,0.4
+2021,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,"1,201",18.3
+2021,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"3,668",56.0
+2021,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"1,737",26.5
+2021,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,98,1.5
+2021,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,323,4.9
+2021,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"34,986",534.3
+2021,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,072",46.9
+2021,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,475,7.3
+2021,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"3,663",55.9
+2021,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,91,1.4
+2021,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,8,0.1
+2021,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"17,333",264.7
+2021,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"9,592",146.5
+2021,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,69,1.1
+2021,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"15,520",237.0
+2021,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"48,029",733.5
+2021,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"18,146",277.1
+2021,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"7,138",109.0
+2021,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"17,571",268.3
+2021,March,B Property and deception offences,B40 Theft,B46 Fare evasion,25,0.4
+2021,March,B Property and deception offences,B40 Theft,B49 Other theft,"39,314",600.4
+2021,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"4,292",65.5
+2021,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,81,1.2
+2021,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"29,833",455.6
+2021,March,B Property and deception offences,B50 Deception,B54 State false information,998,15.2
+2021,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,11,0.2
+2021,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,79,1.2
+2021,March,B Property and deception offences,B50 Deception,B59 Other deception offences,587,9.0
+2021,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,5,0.1
+2021,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,134,2.0
+2021,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"5,446",83.2
+2021,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,"1,255",19.2
+2021,March,C Drug offences,C20 Cultivate or manufacture drugs,C22 Manufacture drugs,2,0.0
+2021,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,903,13.8
+2021,March,C Drug offences,C30 Drug use and possession,C31 Drug use,539,8.2
+2021,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"31,580",482.3
+2021,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,62,0.9
+2021,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"5,441",83.1
+2021,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"10,893",166.4
+2021,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,309,4.7
+2021,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"1,933",29.5
+2021,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"3,812",58.2
+2021,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"2,364",36.1
+2021,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,636,9.7
+2021,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,579",24.1
+2021,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,281,4.3
+2021,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,190,2.9
+2021,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,249,3.8
+2021,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,65,1.0
+2021,March,D Public order and security offences,D30 Public nuisance offences,D34 Defamation and libel,1,0.0
+2021,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"3,253",49.7
+2021,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,132,2.0
+2021,March,D Public order and security offences,D40 Public security offences,D41 Immigration offences,4,0.1
+2021,March,D Public order and security offences,D40 Public security offences,D43 Hacking,139,2.1
+2021,March,D Public order and security offences,D40 Public security offences,D44 Terrorism offences,8,0.1
+2021,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,4,0.1
+2021,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,166,2.5
+2021,March,E Justice procedures offences,E10 Justice procedures,E12 Fail to appear,2,0.0
+2021,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"9,980",152.4
+2021,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,780,11.9
+2021,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,742,11.3
+2021,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"2,019",30.8
+2021,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"54,272",828.8
+2021,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"4,415",67.4
+2021,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"10,751",164.2
+2021,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,"1,446",22.1
+2021,March,F Other offences,F10 Regulatory driving offences,F12 Drug driving,1,0.0
+2021,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,11,0.2
+2021,March,F Other offences,F20 Transport regulation offences,F21 Public transport,113,1.7
+2021,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,10,0.2
+2021,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,133,2.0
+2021,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,6,0.1
+2021,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,21,0.3
+2021,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,46,0.7
+2021,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,32,0.5
+2021,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,135,2.1
+2021,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,14,0.2
+2021,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,147,2.2
+2021,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,87,1.3
+2021,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,60,0.9
+2021,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,"37,650",575.0
+2021,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,191,2.9
+2021,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,28,0.4
+2021,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,38,0.6
+2020,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,57,0.9
+2020,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,35,0.5
+2020,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,20,0.3
+2020,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,100,1.5
+2020,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"7,854",118.9
+2020,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"8,047",121.8
+2020,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","2,934",44.4
+2020,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"15,374",232.7
+2020,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"11,464",173.5
+2020,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"4,583",69.4
+2020,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"6,073",91.9
+2020,March,A Crimes against the person,A30 Sexual offences,A33 Incest,371,5.6
+2020,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"2,138",32.4
+2020,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,584,8.8
+2020,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,174,2.6
+2020,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,546,8.3
+2020,March,A Crimes against the person,A40 Abduction and related offences,A43 Slavery and sexual servitude offences,1,0.0
+2020,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"3,580",54.2
+2020,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,529,8.0
+2020,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,150,2.3
+2020,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,82,1.2
+2020,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,378",20.9
+2020,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,998,15.1
+2020,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"1,874",28.4
+2020,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,984,14.9
+2020,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"4,174",63.2
+2020,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"3,043",46.1
+2020,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,"1,144",17.3
+2020,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,43,0.7
+2020,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,"1,084",16.4
+2020,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"3,456",52.3
+2020,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"2,130",32.2
+2020,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,134,2.0
+2020,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,541,8.2
+2020,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"37,665",570.2
+2020,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,090",46.8
+2020,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,478,7.2
+2020,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"4,271",64.7
+2020,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,136,2.1
+2020,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,1,0.0
+2020,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"25,060",379.3
+2020,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"13,947",211.1
+2020,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,87,1.3
+2020,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"21,050",318.6
+2020,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"64,409",975.0
+2020,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"25,758",389.9
+2020,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"8,311",125.8
+2020,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"18,417",278.8
+2020,March,B Property and deception offences,B40 Theft,B46 Fare evasion,45,0.7
+2020,March,B Property and deception offences,B40 Theft,B49 Other theft,"52,154",789.5
+2020,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"3,479",52.7
+2020,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,6,0.1
+2020,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"30,083",455.4
+2020,March,B Property and deception offences,B50 Deception,B54 State false information,"1,013",15.3
+2020,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,9,0.1
+2020,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,191,2.9
+2020,March,B Property and deception offences,B50 Deception,B59 Other deception offences,419,6.3
+2020,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,2,0.0
+2020,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,69,1.0
+2020,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"4,923",74.5
+2020,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,"1,035",15.7
+2020,March,C Drug offences,C20 Cultivate or manufacture drugs,C22 Manufacture drugs,1,0.0
+2020,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,455,6.9
+2020,March,C Drug offences,C30 Drug use and possession,C31 Drug use,598,9.1
+2020,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"26,777",405.3
+2020,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,61,0.9
+2020,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"4,556",69.0
+2020,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"10,722",162.3
+2020,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,282,4.3
+2020,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"1,772",26.8
+2020,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"5,183",78.5
+2020,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"2,724",41.2
+2020,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,600,9.1
+2020,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,648",24.9
+2020,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,411,6.2
+2020,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,109,1.6
+2020,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,204,3.1
+2020,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,156,2.4
+2020,March,D Public order and security offences,D30 Public nuisance offences,D34 Defamation and libel,6,0.1
+2020,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"3,060",46.3
+2020,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,110,1.7
+2020,March,D Public order and security offences,D40 Public security offences,D41 Immigration offences,1,0.0
+2020,March,D Public order and security offences,D40 Public security offences,D42 Sabotage,2,0.0
+2020,March,D Public order and security offences,D40 Public security offences,D43 Hacking,90,1.4
+2020,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,1,0.0
+2020,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,174,2.6
+2020,March,E Justice procedures offences,E10 Justice procedures,E12 Fail to appear,4,0.1
+2020,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"9,159",138.6
+2020,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,695,10.5
+2020,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,703,10.6
+2020,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"2,083",31.5
+2020,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"46,311",701.0
+2020,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"4,029",61.0
+2020,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"14,457",218.8
+2020,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,"1,853",28.0
+2020,March,F Other offences,F10 Regulatory driving offences,F11 Drink driving,4,0.1
+2020,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,22,0.3
+2020,March,F Other offences,F20 Transport regulation offences,F21 Public transport,262,4.0
+2020,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,4,0.1
+2020,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,103,1.6
+2020,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,12,0.2
+2020,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,23,0.3
+2020,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,44,0.7
+2020,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,67,1.0
+2020,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,137,2.1
+2020,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,14,0.2
+2020,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,34,0.5
+2020,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,67,1.0
+2020,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,56,0.8
+2020,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,60,0.9
+2020,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,220,3.3
+2020,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,35,0.5
+2020,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,111,1.7
+2019,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,49,0.8
+2019,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,27,0.4
+2019,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,15,0.2
+2019,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,93,1.4
+2019,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"7,730",118.4
+2019,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"8,412",128.8
+2019,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","3,014",46.2
+2019,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"14,134",216.4
+2019,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"11,403",174.6
+2019,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"4,199",64.3
+2019,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"6,650",101.8
+2019,March,A Crimes against the person,A30 Sexual offences,A33 Incest,469,7.2
+2019,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"1,590",24.3
+2019,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,536,8.2
+2019,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,161,2.5
+2019,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,552,8.5
+2019,March,A Crimes against the person,A40 Abduction and related offences,A43 Slavery and sexual servitude offences,1,0.0
+2019,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,850",43.6
+2019,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,445,6.8
+2019,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,171,2.6
+2019,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,86,1.3
+2019,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,341",20.5
+2019,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,039",15.9
+2019,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"1,766",27.0
+2019,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,954,14.6
+2019,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"4,070",62.3
+2019,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"3,130",47.9
+2019,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,"1,257",19.2
+2019,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,59,0.9
+2019,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,"1,255",19.2
+2019,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"3,348",51.3
+2019,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"2,426",37.1
+2019,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,53,0.8
+2019,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,740,11.3
+2019,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"36,211",554.5
+2019,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"2,620",40.1
+2019,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,510,7.8
+2019,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"3,499",53.6
+2019,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,116,1.8
+2019,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"23,139",354.3
+2019,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"12,181",186.5
+2019,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,89,1.4
+2019,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"18,407",281.8
+2019,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"54,865",840.1
+2019,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"23,932",366.4
+2019,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"6,623",101.4
+2019,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"17,879",273.8
+2019,March,B Property and deception offences,B40 Theft,B46 Fare evasion,129,2.0
+2019,March,B Property and deception offences,B40 Theft,B49 Other theft,"47,907",733.5
+2019,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"3,211",49.2
+2019,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,19,0.3
+2019,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"31,742",486.0
+2019,March,B Property and deception offences,B50 Deception,B54 State false information,"1,023",15.7
+2019,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,18,0.3
+2019,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,143,2.2
+2019,March,B Property and deception offences,B50 Deception,B59 Other deception offences,382,5.8
+2019,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,7,0.1
+2019,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,113,1.7
+2019,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"4,697",71.9
+2019,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,"1,130",17.3
+2019,March,C Drug offences,C20 Cultivate or manufacture drugs,C22 Manufacture drugs,1,0.0
+2019,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,305,4.7
+2019,March,C Drug offences,C30 Drug use and possession,C31 Drug use,876,13.4
+2019,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"25,144",385.0
+2019,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,95,1.5
+2019,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"4,836",74.0
+2019,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"10,900",166.9
+2019,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,225,3.4
+2019,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"1,448",22.2
+2019,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"7,549",115.6
+2019,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"3,457",52.9
+2019,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,863,13.2
+2019,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,793",27.5
+2019,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,382,5.8
+2019,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,81,1.2
+2019,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,293,4.5
+2019,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,231,3.5
+2019,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"3,106",47.6
+2019,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,145,2.2
+2019,March,D Public order and security offences,D40 Public security offences,D43 Hacking,57,0.9
+2019,March,D Public order and security offences,D40 Public security offences,D44 Terrorism offences,4,0.1
+2019,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,3,0.0
+2019,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,154,2.4
+2019,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"8,447",129.3
+2019,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,752,11.5
+2019,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,926,14.2
+2019,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"2,369",36.3
+2019,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"43,535",666.6
+2019,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"3,692",56.5
+2019,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"15,021",230.0
+2019,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,"1,406",21.5
+2019,March,F Other offences,F10 Regulatory driving offences,F11 Drink driving,3,0.0
+2019,March,F Other offences,F10 Regulatory driving offences,F14 Parking offences,1,0.0
+2019,March,F Other offences,F10 Regulatory driving offences,F15 Licensing offences,1,0.0
+2019,March,F Other offences,F10 Regulatory driving offences,F16 Registration and roadworthiness offences,1,0.0
+2019,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,11,0.2
+2019,March,F Other offences,F20 Transport regulation offences,F21 Public transport,418,6.4
+2019,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,8,0.1
+2019,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,149,2.3
+2019,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,21,0.3
+2019,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,30,0.5
+2019,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,36,0.6
+2019,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,300,4.6
+2019,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,189,2.9
+2019,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,14,0.2
+2019,March,F Other offences,F30 Other government regulatory offences,F35 Intellectual property,1,0.0
+2019,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,50,0.8
+2019,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,70,1.1
+2019,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,52,0.8
+2019,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,134,2.1
+2019,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,190,2.9
+2019,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,54,0.8
+2019,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,55,0.8
+2018,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,62,1.0
+2018,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,58,0.9
+2018,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,20,0.3
+2018,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,85,1.3
+2018,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"7,629",118.9
+2018,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"8,596",133.9
+2018,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","2,920",45.5
+2018,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"13,789",214.8
+2018,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"10,358",161.4
+2018,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"4,551",70.9
+2018,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"7,144",111.3
+2018,March,A Crimes against the person,A30 Sexual offences,A33 Incest,591,9.2
+2018,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"1,856",28.9
+2018,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,782,12.2
+2018,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,147,2.3
+2018,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,569,8.9
+2018,March,A Crimes against the person,A40 Abduction and related offences,A43 Slavery and sexual servitude offences,1,0.0
+2018,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,845",44.3
+2018,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,382,6.0
+2018,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,100,1.6
+2018,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,69,1.1
+2018,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,295",20.2
+2018,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,162",18.1
+2018,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"1,537",23.9
+2018,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,971,15.1
+2018,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"3,823",59.6
+2018,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"2,893",45.1
+2018,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,984,15.3
+2018,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,57,0.9
+2018,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,"1,176",18.3
+2018,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"3,707",57.8
+2018,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"2,565",40.0
+2018,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,61,1.0
+2018,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,583,9.1
+2018,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"37,842",589.6
+2018,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,090",48.1
+2018,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,468,7.3
+2018,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"3,489",54.4
+2018,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,153,2.4
+2018,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,4,0.1
+2018,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"27,382",426.6
+2018,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"14,019",218.4
+2018,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,81,1.3
+2018,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"17,961",279.8
+2018,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"54,635",851.3
+2018,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"22,302",347.5
+2018,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"6,307",98.3
+2018,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"17,421",271.4
+2018,March,B Property and deception offences,B40 Theft,B46 Fare evasion,100,1.6
+2018,March,B Property and deception offences,B40 Theft,B49 Other theft,"45,338",706.4
+2018,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"3,221",50.2
+2018,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,14,0.2
+2018,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"28,623",446.0
+2018,March,B Property and deception offences,B50 Deception,B54 State false information,970,15.1
+2018,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,200,3.1
+2018,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,189,2.9
+2018,March,B Property and deception offences,B50 Deception,B59 Other deception offences,478,7.4
+2018,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,9,0.1
+2018,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,50,0.8
+2018,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"4,157",64.8
+2018,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,937,14.6
+2018,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,371,5.8
+2018,March,C Drug offences,C30 Drug use and possession,C31 Drug use,"1,015",15.8
+2018,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"22,034",343.3
+2018,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,65,1.0
+2018,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"4,421",68.9
+2018,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"10,006",155.9
+2018,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,262,4.1
+2018,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"1,364",21.3
+2018,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"7,961",124.0
+2018,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"3,931",61.2
+2018,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,932,14.5
+2018,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,611",25.1
+2018,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,263,4.1
+2018,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,208,3.2
+2018,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,425,6.6
+2018,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,227,3.5
+2018,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"2,779",43.3
+2018,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,169,2.6
+2018,March,D Public order and security offences,D40 Public security offences,D41 Immigration offences,1,0.0
+2018,March,D Public order and security offences,D40 Public security offences,D43 Hacking,86,1.3
+2018,March,D Public order and security offences,D40 Public security offences,D44 Terrorism offences,44,0.7
+2018,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,6,0.1
+2018,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,126,2.0
+2018,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"8,650",134.8
+2018,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,743,11.6
+2018,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,871,13.6
+2018,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"1,846",28.8
+2018,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"38,847",605.3
+2018,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"3,289",51.2
+2018,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"13,989",218.0
+2018,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,"1,064",16.6
+2018,March,F Other offences,F10 Regulatory driving offences,F15 Licensing offences,2,0.0
+2018,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,17,0.3
+2018,March,F Other offences,F20 Transport regulation offences,F21 Public transport,379,5.9
+2018,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,14,0.2
+2018,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,92,1.4
+2018,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,24,0.4
+2018,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,48,0.7
+2018,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,29,0.5
+2018,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,215,3.3
+2018,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,318,5.0
+2018,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,20,0.3
+2018,March,F Other offences,F30 Other government regulatory offences,F35 Intellectual property,1,0.0
+2018,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,65,1.0
+2018,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,77,1.2
+2018,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,75,1.2
+2018,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,31,0.5
+2018,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,180,2.8
+2018,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,22,0.3
+2018,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,62,1.0
+2017,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,69,1.1
+2017,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,84,1.3
+2017,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,10,0.2
+2017,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,74,1.2
+2017,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"8,391",133.2
+2017,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"8,669",137.6
+2017,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","3,119",49.5
+2017,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"13,990",222.1
+2017,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"9,486",150.6
+2017,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"4,376",69.5
+2017,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"6,742",107.0
+2017,March,A Crimes against the person,A30 Sexual offences,A33 Incest,459,7.3
+2017,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"1,346",21.4
+2017,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,436,6.9
+2017,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,203,3.2
+2017,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,603,9.6
+2017,March,A Crimes against the person,A40 Abduction and related offences,A43 Slavery and sexual servitude offences,1,0.0
+2017,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,891",45.9
+2017,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,403,6.4
+2017,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,147,2.3
+2017,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,60,1.0
+2017,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,447",23.0
+2017,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,103",17.5
+2017,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"1,451",23.0
+2017,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,822,13.0
+2017,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"4,048",64.3
+2017,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"3,011",47.8
+2017,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,934,14.8
+2017,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,56,0.9
+2017,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,"1,208",19.2
+2017,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"3,895",61.8
+2017,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"2,989",47.4
+2017,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,51,0.8
+2017,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,568,9.0
+2017,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"39,310",624.0
+2017,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,255",51.7
+2017,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,497,7.9
+2017,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"4,108",65.2
+2017,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,171,2.7
+2017,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,5,0.1
+2017,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"32,165",510.6
+2017,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"16,891",268.1
+2017,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,105,1.7
+2017,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"23,617",374.9
+2017,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"67,215","1,066.9"
+2017,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"23,435",372.0
+2017,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"6,530",103.7
+2017,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"19,302",306.4
+2017,March,B Property and deception offences,B40 Theft,B46 Fare evasion,138,2.2
+2017,March,B Property and deception offences,B40 Theft,B49 Other theft,"48,362",767.7
+2017,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"3,244",51.5
+2017,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,13,0.2
+2017,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"30,310",481.1
+2017,March,B Property and deception offences,B50 Deception,B54 State false information,"1,286",20.4
+2017,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,37,0.6
+2017,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,102,1.6
+2017,March,B Property and deception offences,B50 Deception,B59 Other deception offences,334,5.3
+2017,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,22,0.3
+2017,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,44,0.7
+2017,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"4,768",75.7
+2017,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,904,14.3
+2017,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,571,9.1
+2017,March,C Drug offences,C30 Drug use and possession,C31 Drug use,"1,289",20.5
+2017,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"23,287",369.6
+2017,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,52,0.8
+2017,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"4,753",75.4
+2017,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"10,822",171.8
+2017,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,347,5.5
+2017,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"1,211",19.2
+2017,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"8,068",128.1
+2017,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"4,113",65.3
+2017,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,936,14.9
+2017,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,856",29.5
+2017,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,301,4.8
+2017,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,108,1.7
+2017,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,247,3.9
+2017,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,86,1.4
+2017,March,D Public order and security offences,D30 Public nuisance offences,D34 Defamation and libel,1,0.0
+2017,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"2,681",42.6
+2017,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,147,2.3
+2017,March,D Public order and security offences,D40 Public security offences,D41 Immigration offences,1,0.0
+2017,March,D Public order and security offences,D40 Public security offences,D43 Hacking,66,1.0
+2017,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,4,0.1
+2017,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,225,3.6
+2017,March,E Justice procedures offences,E10 Justice procedures,E12 Fail to appear,1,0.0
+2017,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"9,630",152.9
+2017,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,733,11.6
+2017,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,850,13.5
+2017,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"1,817",28.8
+2017,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"37,777",599.7
+2017,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"3,108",49.3
+2017,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"15,122",240.0
+2017,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,991,15.7
+2017,March,F Other offences,F10 Regulatory driving offences,F11 Drink driving,2,0.0
+2017,March,F Other offences,F10 Regulatory driving offences,F15 Licensing offences,6,0.1
+2017,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,6,0.1
+2017,March,F Other offences,F20 Transport regulation offences,F21 Public transport,484,7.7
+2017,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,7,0.1
+2017,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,117,1.9
+2017,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,32,0.5
+2017,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,103,1.6
+2017,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,28,0.4
+2017,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,130,2.1
+2017,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,140,2.2
+2017,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,35,0.6
+2017,March,F Other offences,F30 Other government regulatory offences,F35 Intellectual property,7,0.1
+2017,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,69,1.1
+2017,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,67,1.1
+2017,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,45,0.7
+2017,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,60,1.0
+2017,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,238,3.8
+2017,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,18,0.3
+2017,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,48,0.8
+2016,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,54,0.9
+2016,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,49,0.8
+2016,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,11,0.2
+2016,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,81,1.3
+2016,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"8,485",137.4
+2016,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"8,471",137.2
+2016,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","2,863",46.4
+2016,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"12,149",196.8
+2016,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"8,547",138.5
+2016,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"4,150",67.2
+2016,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"5,643",91.4
+2016,March,A Crimes against the person,A30 Sexual offences,A33 Incest,409,6.6
+2016,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"1,469",23.8
+2016,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,313,5.1
+2016,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,207,3.4
+2016,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,567,9.2
+2016,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,470",40.0
+2016,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,281,4.6
+2016,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,138,2.2
+2016,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,71,1.2
+2016,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,445",23.4
+2016,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,239",20.1
+2016,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"1,859",30.1
+2016,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,"1,047",17.0
+2016,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"3,964",64.2
+2016,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"3,082",49.9
+2016,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,580,9.4
+2016,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,66,1.1
+2016,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,"1,150",18.6
+2016,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"3,298",53.4
+2016,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"3,359",54.4
+2016,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,233,3.8
+2016,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,761,12.3
+2016,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"40,078",649.2
+2016,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,188",51.6
+2016,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,432,7.0
+2016,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"3,217",52.1
+2016,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,109,1.8
+2016,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,18,0.3
+2016,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"31,032",502.7
+2016,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"16,561",268.3
+2016,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,222,3.6
+2016,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"20,264",328.3
+2016,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"57,893",937.8
+2016,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"21,798",353.1
+2016,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"6,554",106.2
+2016,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"15,498",251.1
+2016,March,B Property and deception offences,B40 Theft,B46 Fare evasion,123,2.0
+2016,March,B Property and deception offences,B40 Theft,B49 Other theft,"50,431",816.9
+2016,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"4,794",77.7
+2016,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,18,0.3
+2016,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"31,519",510.6
+2016,March,B Property and deception offences,B50 Deception,B54 State false information,"1,144",18.5
+2016,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,65,1.1
+2016,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,141,2.3
+2016,March,B Property and deception offences,B50 Deception,B59 Other deception offences,785,12.7
+2016,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,10,0.2
+2016,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,36,0.6
+2016,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"5,320",86.2
+2016,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,"1,113",18.0
+2016,March,C Drug offences,C20 Cultivate or manufacture drugs,C22 Manufacture drugs,1,0.0
+2016,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,681,11.0
+2016,March,C Drug offences,C30 Drug use and possession,C31 Drug use,"1,231",19.9
+2016,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"22,144",358.7
+2016,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,259,4.2
+2016,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"4,992",80.9
+2016,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"10,906",176.7
+2016,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,378,6.1
+2016,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"1,325",21.5
+2016,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"8,626",139.7
+2016,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"4,459",72.2
+2016,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,"1,094",17.7
+2016,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,732",28.1
+2016,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,257,4.2
+2016,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,83,1.3
+2016,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,309,5.0
+2016,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,108,1.7
+2016,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"2,772",44.9
+2016,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,162,2.6
+2016,March,D Public order and security offences,D40 Public security offences,D41 Immigration offences,3,0.0
+2016,March,D Public order and security offences,D40 Public security offences,D43 Hacking,174,2.8
+2016,March,D Public order and security offences,D40 Public security offences,D44 Terrorism offences,1,0.0
+2016,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,2,0.0
+2016,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,208,3.4
+2016,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"7,564",122.5
+2016,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,767,12.4
+2016,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,836,13.5
+2016,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"1,652",26.8
+2016,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"34,280",555.3
+2016,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"2,881",46.7
+2016,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"18,306",296.5
+2016,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,"1,093",17.7
+2016,March,F Other offences,F10 Regulatory driving offences,F11 Drink driving,8,0.1
+2016,March,F Other offences,F10 Regulatory driving offences,F15 Licensing offences,9,0.1
+2016,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,8,0.1
+2016,March,F Other offences,F20 Transport regulation offences,F21 Public transport,307,5.0
+2016,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,1,0.0
+2016,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,95,1.5
+2016,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,25,0.4
+2016,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,96,1.6
+2016,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,12,0.2
+2016,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,82,1.3
+2016,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,144,2.3
+2016,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,54,0.9
+2016,March,F Other offences,F30 Other government regulatory offences,F35 Intellectual property,1,0.0
+2016,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,77,1.2
+2016,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,150,2.4
+2016,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,65,1.1
+2016,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,110,1.8
+2016,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,224,3.6
+2016,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,59,1.0
+2016,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,37,0.6
+2015,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,56,0.9
+2015,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,38,0.6
+2015,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,20,0.3
+2015,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,62,1.0
+2015,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"7,967",132.3
+2015,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"8,295",137.7
+2015,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","2,883",47.9
+2015,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"10,070",167.2
+2015,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"7,793",129.4
+2015,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"3,863",64.1
+2015,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"5,774",95.9
+2015,March,A Crimes against the person,A30 Sexual offences,A33 Incest,496,8.2
+2015,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"1,309",21.7
+2015,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,125,2.1
+2015,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,172,2.9
+2015,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,511,8.5
+2015,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,151",35.7
+2015,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,263,4.4
+2015,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,128,2.1
+2015,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,88,1.5
+2015,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,542",25.6
+2015,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,394",23.1
+2015,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,"1,172",19.5
+2015,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,"1,120",18.6
+2015,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"3,627",60.2
+2015,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"3,025",50.2
+2015,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,472,7.8
+2015,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,82,1.4
+2015,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,957,15.9
+2015,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"2,767",45.9
+2015,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"2,733",45.4
+2015,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,110,1.8
+2015,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,505,8.4
+2015,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"38,311",636.1
+2015,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,334",55.4
+2015,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,410,6.8
+2015,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"2,448",40.6
+2015,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,97,1.6
+2015,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,19,0.3
+2015,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"28,546",474.0
+2015,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"13,636",226.4
+2015,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,220,3.7
+2015,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"16,617",275.9
+2015,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"49,267",818.1
+2015,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"19,899",330.4
+2015,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"5,534",91.9
+2015,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"11,933",198.1
+2015,March,B Property and deception offences,B40 Theft,B46 Fare evasion,144,2.4
+2015,March,B Property and deception offences,B40 Theft,B49 Other theft,"44,045",731.4
+2015,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"3,023",50.2
+2015,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,16,0.3
+2015,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"28,845",479.0
+2015,March,B Property and deception offences,B50 Deception,B54 State false information,"1,037",17.2
+2015,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,15,0.2
+2015,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,123,2.0
+2015,March,B Property and deception offences,B50 Deception,B59 Other deception offences,87,1.4
+2015,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,40,0.7
+2015,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,34,0.6
+2015,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"4,610",76.5
+2015,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,"1,017",16.9
+2015,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,647,10.7
+2015,March,C Drug offences,C30 Drug use and possession,C31 Drug use,"1,168",19.4
+2015,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"19,462",323.2
+2015,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,32,0.5
+2015,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"4,083",67.8
+2015,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"9,302",154.5
+2015,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,299,5.0
+2015,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"1,242",20.6
+2015,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"10,570",175.5
+2015,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"5,330",88.5
+2015,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,"1,271",21.1
+2015,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,477",24.5
+2015,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,612,10.2
+2015,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,62,1.0
+2015,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,249,4.1
+2015,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,95,1.6
+2015,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"2,022",33.6
+2015,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,152,2.5
+2015,March,D Public order and security offences,D40 Public security offences,D41 Immigration offences,1,0.0
+2015,March,D Public order and security offences,D40 Public security offences,D43 Hacking,91,1.5
+2015,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,10,0.2
+2015,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,194,3.2
+2015,March,E Justice procedures offences,E10 Justice procedures,E12 Fail to appear,1,0.0
+2015,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"3,555",59.0
+2015,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,869,14.4
+2015,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,793,13.2
+2015,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"1,285",21.3
+2015,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"27,144",450.7
+2015,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"2,843",47.2
+2015,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"18,295",303.8
+2015,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,"1,059",17.6
+2015,March,F Other offences,F10 Regulatory driving offences,F11 Drink driving,15,0.2
+2015,March,F Other offences,F10 Regulatory driving offences,F14 Parking offences,2,0.0
+2015,March,F Other offences,F10 Regulatory driving offences,F15 Licensing offences,6,0.1
+2015,March,F Other offences,F10 Regulatory driving offences,F16 Registration and roadworthiness offences,1,0.0
+2015,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,10,0.2
+2015,March,F Other offences,F20 Transport regulation offences,F21 Public transport,231,3.8
+2015,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,4,0.1
+2015,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,69,1.1
+2015,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,16,0.3
+2015,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,130,2.2
+2015,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,35,0.6
+2015,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,100,1.7
+2015,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,162,2.7
+2015,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,35,0.6
+2015,March,F Other offences,F30 Other government regulatory offences,F35 Intellectual property,12,0.2
+2015,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,117,1.9
+2015,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,77,1.3
+2015,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,76,1.3
+2015,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,122,2.0
+2015,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,228,3.8
+2015,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,30,0.5
+2015,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,44,0.7
+2014,March,A Crimes against the person,A10 Homicide and related offences,A11 Murder,46,0.8
+2014,March,A Crimes against the person,A10 Homicide and related offences,A12 Attempted murder,31,0.5
+2014,March,A Crimes against the person,A10 Homicide and related offences,A14 Manslaughter & A13  Accessory/ conspiracy to murder,26,0.4
+2014,March,A Crimes against the person,A10 Homicide and related offences,A15 Driving causing death,64,1.1
+2014,March,A Crimes against the person,A20 Assault and related offences,A211 FV Serious assault,"7,906",134.1
+2014,March,A Crimes against the person,A20 Assault and related offences,A212 Non-FV Serious assault,"9,506",161.3
+2014,March,A Crimes against the person,A20 Assault and related offences,"A22 Assault police, emergency services or other authorised officer","2,699",45.8
+2014,March,A Crimes against the person,A20 Assault and related offences,A231 FV Common assault,"9,456",160.4
+2014,March,A Crimes against the person,A20 Assault and related offences,A232 Non-FV Common assault,"8,151",138.3
+2014,March,A Crimes against the person,A30 Sexual offences,A31 Rape,"3,691",62.6
+2014,March,A Crimes against the person,A30 Sexual offences,A32 Indecent assault,"4,803",81.5
+2014,March,A Crimes against the person,A30 Sexual offences,A33 Incest,412,7.0
+2014,March,A Crimes against the person,A30 Sexual offences,A34 Sexual offences against children,"1,057",17.9
+2014,March,A Crimes against the person,A30 Sexual offences,A39 Other sexual offences,237,4.0
+2014,March,A Crimes against the person,A40 Abduction and related offences,A41 Abduction,203,3.4
+2014,March,A Crimes against the person,A40 Abduction and related offences,A42 False imprisonment,474,8.0
+2014,March,A Crimes against the person,A50 Robbery,A51 Aggravated robbery,"2,407",40.8
+2014,March,A Crimes against the person,A50 Robbery,A52 Non-Aggravated robbery,249,4.2
+2014,March,A Crimes against the person,A60 Blackmail and extortion,A61 Blackmail,165,2.8
+2014,March,A Crimes against the person,A60 Blackmail and extortion,A62 Extortion,75,1.3
+2014,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A711 FV Stalking,"1,293",21.9
+2014,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A712 Non-FV Stalking,"1,460",24.8
+2014,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A721 FV Harassment and private nuisance,858,14.6
+2014,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A722 Non-FV Harassment and private nuisance,980,16.6
+2014,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A731 FV Threatening behaviour,"3,306",56.1
+2014,March,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",A732 Non-FV Threatening behaviour,"2,787",47.3
+2014,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A81 Dangerous driving,298,5.1
+2014,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A82 Neglect or ill treatment of people,96,1.6
+2014,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A83 Throw or discharge object endangering people,901,15.3
+2014,March,A Crimes against the person,A80 Dangerous and negligent acts endangering people,A89 Other dangerous or negligent acts endangering people,"2,823",47.9
+2014,March,B Property and deception offences,B10 Arson,B11 Cause damage by fire,"2,983",50.6
+2014,March,B Property and deception offences,B10 Arson,B12 Cause a bushfire,109,1.8
+2014,March,B Property and deception offences,B10 Arson,B19 Other fire related offences,595,10.1
+2014,March,B Property and deception offences,B20 Property damage,B21 Criminal damage,"41,046",696.3
+2014,March,B Property and deception offences,B20 Property damage,B22 Graffiti,"3,462",58.7
+2014,March,B Property and deception offences,B20 Property damage,B29 Other property damage offences,420,7.1
+2014,March,B Property and deception offences,B30 Burglary/Break and enter,B311 Residential aggravated burglary,"2,568",43.6
+2014,March,B Property and deception offences,B30 Burglary/Break and enter,B312 Non-residential aggravated burglary,104,1.8
+2014,March,B Property and deception offences,B30 Burglary/Break and enter,B319 Unknown aggravated burglary,32,0.5
+2014,March,B Property and deception offences,B30 Burglary/Break and enter,B321 Residential non-aggravated burglary,"28,386",481.5
+2014,March,B Property and deception offences,B30 Burglary/Break and enter,B322 Non-residential non-aggravated burglary,"15,377",260.9
+2014,March,B Property and deception offences,B30 Burglary/Break and enter,B329 Unknown non-aggravated burglary,311,5.3
+2014,March,B Property and deception offences,B40 Theft,B41 Motor vehicle theft,"15,660",265.7
+2014,March,B Property and deception offences,B40 Theft,B42 Steal from a motor vehicle,"46,652",791.4
+2014,March,B Property and deception offences,B40 Theft,B43 Steal from a retail store,"21,995",373.1
+2014,March,B Property and deception offences,B40 Theft,B44 Theft of a bicycle,"4,838",82.1
+2014,March,B Property and deception offences,B40 Theft,B45 Receiving or handling stolen goods,"10,010",169.8
+2014,March,B Property and deception offences,B40 Theft,B46 Fare evasion,161,2.7
+2014,March,B Property and deception offences,B40 Theft,B49 Other theft,"49,117",833.2
+2014,March,B Property and deception offences,B50 Deception,B51 Forgery and counterfeiting,"3,626",61.5
+2014,March,B Property and deception offences,B50 Deception,B52 Possess equipment to make false instrument,8,0.1
+2014,March,B Property and deception offences,B50 Deception,B53 Obtain benefit by deception,"32,040",543.5
+2014,March,B Property and deception offences,B50 Deception,B54 State false information,968,16.4
+2014,March,B Property and deception offences,B50 Deception,B55 Deceptive business practices,92,1.6
+2014,March,B Property and deception offences,B50 Deception,B56 Professional malpractice and misrepresentation,107,1.8
+2014,March,B Property and deception offences,B50 Deception,B59 Other deception offences,111,1.9
+2014,March,B Property and deception offences,B60 Bribery,B61 Bribery of officials,11,0.2
+2014,March,C Drug offences,C10 Drug dealing and trafficking,C11 Drug dealing,29,0.5
+2014,March,C Drug offences,C10 Drug dealing and trafficking,C12 Drug trafficking,"4,478",76.0
+2014,March,C Drug offences,C20 Cultivate or manufacture drugs,C21 Cultivate drugs,"1,031",17.5
+2014,March,C Drug offences,C20 Cultivate or manufacture drugs,C23 Possess drug manufacturing equipment or precursor,769,13.0
+2014,March,C Drug offences,C30 Drug use and possession,C31 Drug use,"1,170",19.8
+2014,March,C Drug offences,C30 Drug use and possession,C32 Drug possession,"16,856",285.9
+2014,March,C Drug offences,C90 Other drug offences,C99 Other drug offences,46,0.8
+2014,March,D Public order and security offences,D10 Weapons and explosives offences,D11 Firearms offences,"4,106",69.7
+2014,March,D Public order and security offences,D10 Weapons and explosives offences,D12 Prohibited and controlled weapons offences,"8,518",144.5
+2014,March,D Public order and security offences,D10 Weapons and explosives offences,D13 Explosives offences,310,5.3
+2014,March,D Public order and security offences,D20 Disorderly and offensive conduct,D21 Riot and affray,"1,277",21.7
+2014,March,D Public order and security offences,D20 Disorderly and offensive conduct,D22 Drunk and disorderly in public,"13,865",235.2
+2014,March,D Public order and security offences,D20 Disorderly and offensive conduct,D23 Offensive conduct,"5,408",91.7
+2014,March,D Public order and security offences,D20 Disorderly and offensive conduct,D24 Offensive language,"1,308",22.2
+2014,March,D Public order and security offences,D20 Disorderly and offensive conduct,D25 Criminal intent,"1,496",25.4
+2014,March,D Public order and security offences,D20 Disorderly and offensive conduct,D26 Disorderly conduct,441,7.5
+2014,March,D Public order and security offences,D30 Public nuisance offences,D31 Privacy offences,93,1.6
+2014,March,D Public order and security offences,D30 Public nuisance offences,D32 Hoaxes,237,4.0
+2014,March,D Public order and security offences,D30 Public nuisance offences,D33 Begging,207,3.5
+2014,March,D Public order and security offences,D30 Public nuisance offences,D35 Improper movement on public or private space,"1,991",33.8
+2014,March,D Public order and security offences,D30 Public nuisance offences,D36 Other public nuisance offences,168,2.8
+2014,March,D Public order and security offences,D40 Public security offences,D42 Sabotage,1,0.0
+2014,March,D Public order and security offences,D40 Public security offences,D43 Hacking,316,5.4
+2014,March,D Public order and security offences,D40 Public security offences,D49 Other public security offences,4,0.1
+2014,March,E Justice procedures offences,E10 Justice procedures,E11 Escape custody,192,3.3
+2014,March,E Justice procedures offences,E10 Justice procedures,E12 Fail to appear,1,0.0
+2014,March,E Justice procedures offences,E10 Justice procedures,E13 Resist or hinder officer,"3,213",54.5
+2014,March,E Justice procedures offences,E10 Justice procedures,E14 Pervert the course of justice or commit perjury,871,14.8
+2014,March,E Justice procedures offences,E10 Justice procedures,E15 Prison regulation offences,945,16.0
+2014,March,E Justice procedures offences,E10 Justice procedures,E19 Other justice procedures offences,"1,221",20.7
+2014,March,E Justice procedures offences,E20 Breaches of orders,E21 Breach family violence order,"19,894",337.5
+2014,March,E Justice procedures offences,E20 Breaches of orders,E22 Breach intervention order,"1,953",33.1
+2014,March,E Justice procedures offences,E20 Breaches of orders,E23 Breach bail conditions,"10,045",170.4
+2014,March,E Justice procedures offences,E20 Breaches of orders,E29 Breach of other orders,785,13.3
+2014,March,F Other offences,F10 Regulatory driving offences,F11 Drink driving,9,0.2
+2014,March,F Other offences,F10 Regulatory driving offences,F12 Drug driving,1,0.0
+2014,March,F Other offences,F10 Regulatory driving offences,F15 Licensing offences,3,0.1
+2014,March,F Other offences,F10 Regulatory driving offences,F19 Other regulatory driving offences,12,0.2
+2014,March,F Other offences,F20 Transport regulation offences,F21 Public transport,287,4.9
+2014,March,F Other offences,F20 Transport regulation offences,F22 Aviation regulations offences,5,0.1
+2014,March,F Other offences,F20 Transport regulation offences,F23 Maritime regulations offences,18,0.3
+2014,March,F Other offences,F20 Transport regulation offences,F24 Pedestrian offences,2,0.0
+2014,March,F Other offences,F20 Transport regulation offences,F29 Other transport regulation offences,129,2.2
+2014,March,F Other offences,F30 Other government regulatory offences,F31 Betting and gaming offences,104,1.8
+2014,March,F Other offences,F30 Other government regulatory offences,F32 Commercial regulation offences,81,1.4
+2014,March,F Other offences,F30 Other government regulatory offences,F33 Liquor and tobacco licensing offences,350,5.9
+2014,March,F Other offences,F30 Other government regulatory offences,F34 Pornography and censorship offences,24,0.4
+2014,March,F Other offences,F30 Other government regulatory offences,F35 Intellectual property,13,0.2
+2014,March,F Other offences,F30 Other government regulatory offences,F36 Prostitution offences,133,2.3
+2014,March,F Other offences,F30 Other government regulatory offences,F39 Other government regulatory offences,85,1.4
+2014,March,F Other offences,F90 Miscellaneous offences,F91 Environmental offences,42,0.7
+2014,March,F Other offences,F90 Miscellaneous offences,F92 Public health and safety offences,52,0.9
+2014,March,F Other offences,F90 Miscellaneous offences,F93 Cruelty to animals,240,4.1
+2014,March,F Other offences,F90 Miscellaneous offences,F94 Dangerous substance offences,19,0.3
+2014,March,F Other offences,F90 Miscellaneous offences,F99 Other miscellaneous offences,78,1.3

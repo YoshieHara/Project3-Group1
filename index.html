@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Crime Data Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Add CSS to adjust chart dimensions */
+        canvas {
+            max-width: 500px;
+            max-height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 jumbotron text-center">
+                <h1>Crime in Victoria Dashboard</h1>
+                <p>Use the interactive charts below to explore the dataset</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Line Chart Container -->
+    <div id="lineChartContainer">
+        <h2>Crime Type Trends Over the Years</h2>
+        <canvas id="lineChartCanvas"></canvas>
+        <select id="selectDivision"></select>
+    </div>
+
+    <!-- Pie Chart Container -->
+    <div id="pieChartContainer">
+        <h2>Crime Category Breakdown</h2>
+        <canvas id="pieChartCanvas"></canvas>
+        <select id="selectYear"></select>
+    </div>
+
+    <!-- Bar Chart Container -->
+    <div id="barChartContainer">
+        <h2>Drug offence types</h2>
+        <canvas id="barChartCanvas"></canvas>
+        <select id="selectGroup"></select>
+    </div>
+
+    <!-- Line Chart 2 Container -->
+    <div id="lineChart2Container">
+        <h2>Drug offence trends over the Years</h2>
+        <canvas id="lineChartCanvas2"></canvas>
+        <select id="selectGroup2"></select>
+    </div>
+
+   
+
+  <footer>
+    <p>Sourced from Crime Statistics Victoria</p>
+</footer>
+
+    <script src="demo.js"></script>
+</body>
+</html>

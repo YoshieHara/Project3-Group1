@@ -26,5 +26,3 @@ The aim of this project is to use available data to investigate the following.
 8. index.html
 9. style.css
 10. demo.js
- 
-  Project Requirements According to the instructions given in the Project Overview, the following will be considered. · Python Flask-powered API, · HTML/CSS, JavaScript, · One database, · Track: A dashboard page with multiple charts that update from the same data, · Include a new JS library not covered in class, · Dataset of at least 100 records, · Some level of user-driven interaction, and · The final dashboard contains at least three views.

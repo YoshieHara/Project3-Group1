@@ -1,0 +1,51 @@
+/* Set the background color of the entire page to very pale grey */
+body {
+    background-color: #f0f0f0; /* Hexadecimal color code for pale grey */
+}
+
+/* Container Styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.chart-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.chart {
+    width: 48%; /* Adjust the width as needed */
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Canvas Styles */
+canvas {
+    max-width: 100%;
+    max-height: 300px;
+}
+
+/* Centered Text Style */
+.center-text {
+    text-align: center;
+    margin-top: 20px;
+    background-color: lightgray;
+    color: black;
+}
+
+/* Top of Page Style */
+.topofpage {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}

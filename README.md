@@ -1,7 +1,8 @@
-# **Project3-Group1**
-# **Crime statistics in Victoria**
+# **Project 3**
+# **Title: Victoria Safety Analysis**
 
-Title: Recorded Offences in Victoria Group 1: David, Hussam, Kashif, Yoshie
+## **Group 1: Hussam Goda, Kashif Bashir, Nairui Guo and Yoshie Hara**
+
 
 Scope This project uses information reported by the Crime Statistics Agency in relation to offences recorded in Victoria. Offences are classified employing Offence Division, Offence Subdivision, Offence Subgroup and Offence Count. The data given are reported over a few years ending March 2023.
 

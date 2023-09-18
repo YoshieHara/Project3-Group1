@@ -4,7 +4,8 @@
 ## **Group 1: Hussam Goda, Kashif Bashir, Nairui Guo and Yoshie Hara**
 
 
-Scope This project uses information reported by the Crime Statistics Agency in relation to offences recorded in Victoria. Offences are classified employing Offence Division, Offence Subdivision, Offence Subgroup and Offence Count. The data given are reported over a few years ending March 2023.
+#### **Scope and Introduction**
+This project uses information reported by the Crime Statistics Agency in relation to offences recorded in Victoria. Offences are classified employing Offence Division, Offence Subdivision, Offence Subgroup and Offence Count. The data given are reported over a few years ending March 2023.
 
 Data Sources Data used in this project is available through the following website. Download data | Crime Statistics Agency Victoria
 

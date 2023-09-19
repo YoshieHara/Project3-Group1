@@ -33,37 +33,32 @@ function createLineChart(selectedOffenceDivision) {
             yearlyData[year] += count;
         });
 
-        //do the Data Extraction After iterating through all the data entries,
+        //do the Data Extraction After iterating through all the data entries
         const years = Object.keys(yearlyData);
         const counts = Object.values(yearlyData);
 
         // and Create a line chart with the sum data, destroy if any exist one from the testing
         const ctxLineChart = document.getElementById('lineChartCanvas').getContext('2d');
         if (lineChart) {
-            lineChart.destroy();
-        }
+            lineChart.destroy();}
+
         lineChart = new Chart(ctxLineChart, {
             type: 'line', // set the chart type
             data: {
-                labels: years, //xaxis we use years
+                labels: years, 
                 datasets: [{
-                    label: 'Offence Count', //for the label of the line
-                    data: counts, //ylabel data
-                    borderColor: 'steelblue', // line color
-                    backgroundColor: 'rgba(70, 130, 180, 0.3)', //dot color
-                    borderWidth: 1 //line tickness
-                }]
-            },
+                    label: 'Offence Count', 
+                    data: counts, 
+                    borderColor: 'steelblue', 
+                    backgroundColor: 'rgba(70, 130, 180, 0.3)', 
+                    borderWidth: 1 }]},
+
             options: {
                 scales: {
-                    x: {
-                        title: {
-                            display: true, // to display xaxis
-                            text: 'Year' //name of xaxis
-                        }
-                    },
-                    y: {
-                        title: {
+                    x: {title: {
+                            display: true, 
+                            text: 'Year' }},
+                    y: {title: {
                             display: true,
                             text: 'Offence Count'
                         }
@@ -292,6 +287,8 @@ fetch(apiUrl)
 
 
 
+
+
 // From here use URL2    
 // Function to create and update the linechart2, do the same as the first line chart
 function createLineChart2(selectedOffenceGroup) {
@@ -314,12 +311,6 @@ function createLineChart2(selectedOffenceGroup) {
         if (lineChart2) {
             lineChart2.destroy();
         }
-
-        // Customize chart colors and labels for URL2
-        const borderColor = 'steelblue';
-        const backgroundColor = 'rgba(70, 130, 180, 0.3)';
-        const xTitle = 'Year';
-        const yTitle = 'Offence Count';
 
         lineChart2 = new Chart(ctxLineChart2, {
             type: 'line',
@@ -373,12 +364,6 @@ function createLineChart2(selectedOffenceGroup) {
         if (lineChart2) {
             lineChart2.destroy();
         }
-
-        // Customize chart colors and labels for URL2
-        const borderColor = 'steelblue';
-        const backgroundColor = 'rgba(70, 130, 180, 0.3)';
-        const xTitle = 'Year';
-        const yTitle = 'OffenceCount';
 
         lineChart2 = new Chart(ctxLineChart2, {
             type: 'line',
@@ -472,6 +457,8 @@ function createBarChart(selectedYear) {
         }
     });
 }
+
+
 
 
 

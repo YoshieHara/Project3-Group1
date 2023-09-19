@@ -1,7 +1,9 @@
-/* Set the background color of the entire page to very pale grey */
+/* Set the color of background in the page */
 body {
-    background-color: #f0f0f0; /* Hexadecimal color code for pale grey */
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
 }
+
 
 /* Container Styles */
 .container {

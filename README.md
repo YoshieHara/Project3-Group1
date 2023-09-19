@@ -53,5 +53,12 @@ All files must be in the same folder in order for the files to work in harmony.
   
   http://localhost:5000/api/v1.0/DrugsOffencesVictoria
 
+  
+![image](https://github.com/YoshieHara/Project3-Group1/assets/134576485/a16c82e0-d233-4d5f-90ee-c7fb52930548)
+
+
+![image](https://github.com/YoshieHara/Project3-Group1/assets/134576485/a7e26f55-0191-4202-a516-3530d370e4b0)
+
+
 
     

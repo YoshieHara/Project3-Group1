@@ -32,13 +32,13 @@ The following list declares all files used to address the objectives stated abov
 7. AllCrimes.py: A Python code to connect to crime.sqlite and generate Flask-API for inclusion in the java script to generate the dashboard 
 8. index.html: An HTML file to activate and run demo.js
 9. style.css: A CSS file to style the dashboard
-10. demo.js: A java script file contains all codes to construct the dashboard (four plots in total).
+10. demo.js: A java script file contains all codes to construct the dashboard (four plots in total). The library chart.js is used.
 
 
 ### **How To Use Files - Workflow**
 All files must be in the same folder in order for the files to work in harmony. 
 1. The jupyter notebook file "DataCleaningAndConversion.ipynb" is used first. The file reads both Excel files "crimes.xlsx" and "Drugs.xlsx" and converts them into DataFrames. Once in DataFrames, data are QC'ed and data types for all entries in both tables are checked to confirm their suitability. empty rows, if any. are dropped. finally both DataFrames are exported in CSV format. Two files are produced, "crimes.csv" and "drugs.csv". 
-2. The two CSV  files are then imported into the SQLite database "crime.sqlite". Tables are produced and, again, all data types are checked. In the database, the table for "crimes.csv" is named "cleaned_data", while the table for "drugs.csv" is called drugs. The table "cleaned_data" has 1123 records. The table "drugs" has 2073 records.
+2. The two CSV  files are then imported into the SQLite database "crime.sqlite". Tables are produced and, again, all data types are checked. In the database, the table for "crimes.csv" is named "cleaned_data", while the table for "drugs.csv" is called drugs. The table "cleaned_data" has 1123 records. The table "drugs" has 2073 records. Below are two screen captures that show data types in both tables and a few rows from the table "cleaned_data".
    
 
    
@@ -49,12 +49,13 @@ All files must be in the same folder in order for the files to work in harmony.
    ![image](https://github.com/YoshieHara/Project3-Group1/assets/134576485/d96455af-01aa-40f8-9726-18d7384b24ac)
 
  
-3. Once the Database is ready, the file "AllCrimes.py" is developed to connect to the database, introduce two routes and produce two Flask-API links for both tables. These two Flask-API links are the links to be used in the javascript file. The two links are:
+3. Once the Database is ready, the file "AllCrimes.py" is developed to connect to the database, introduce two routes and produce two Flask-API links for both tables. Of course, tables entries through the links are in json format. The two Flask-API routes are then used in the javascript file. The two links are:
   
   http://localhost:5000/api/v1.0/CrimesInVictoria
   
   http://localhost:5000/api/v1.0/DrugsOffencesVictoria
 
+The first image below is from the "AllCrimes.py" showing defined routes for both tables. The second image shows a section of the second Flask-API link as it is read in json format. 
   
 ![image](https://github.com/YoshieHara/Project3-Group1/assets/134576485/a16c82e0-d233-4d5f-90ee-c7fb52930548)
 

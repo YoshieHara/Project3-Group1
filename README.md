@@ -65,6 +65,13 @@ The first image below is from the "AllCrimes.py" showing defined routes for both
 
 ![image](https://github.com/YoshieHara/Project3-Group1/assets/134576485/a7e26f55-0191-4202-a516-3530d370e4b0)
 
-4. 
+4.There are external files linked to index.html.
+
+・style.css - It is used for describing the presentation and styling of web documents written in index.html.
+
+・demo.js - It is used to create and update line charts, pie charts, and bar charts with chart.js library, based on data obtained from two different API endpoints. 
+               These charts visualize various aspects of crime data for Victoria.
+
+
 
     

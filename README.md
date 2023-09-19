@@ -27,7 +27,7 @@ The following list declares all files used to address the objectives given above
 3. DataCleaningAndConversion.ipynb: A jupyter notebook used to prepare data 
 4. crimes.csv: CSV file for crimes (output from DataCleaningAndConversion.ipynb) 
 5. drugs.csv: CSV file for drugs-related crimes (output from DataCleaningAndConversion.ipynb) 
-6. crime.sqlite: An Sqlite database to host both CSV files indicated above
+6. crime.sqlite: An SQLite database to host both CSV files indicated above
 7. AllCrimes.py: A Python code to connect to crime.sqlite and generate Flask-API for inclusion in the java script to generate the dashboard 
 8. index.html: An HTML file to activate and run demo.js
 9. style.css: A CSS file to style the dashboard

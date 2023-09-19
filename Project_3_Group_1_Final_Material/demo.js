@@ -272,7 +272,7 @@ function createLineChart2(selectedOffenceGroup) {
             data: {
                 labels: years2,
                 datasets: [{
-                    label: 'OffenceCount',
+                    label: 'Offence Count',
                     data: counts2,
                     borderColor: 'green',
                     backgroundColor: 'rgba(0, 128, 0, 0.3)', // Change the background color for URL2
@@ -290,7 +290,7 @@ function createLineChart2(selectedOffenceGroup) {
                     y: {
                         title: {
                             display: true,
-                            text: 'OffenceCount'
+                            text: 'Offence Count'
                         }
                     }
                 }

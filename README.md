@@ -5,7 +5,11 @@
 
 
 ### **Introduction and Objective**
-Safety is an important aspect in any Country/Location. As people's behaviours, beliefs, and life standards are different, a crime-free location is almost impossible to find. With that said, however, safety (crimes) data analysis may act as useful resources for governments, law enforcement and police forces to determine changes/updates in their plans to tackle crimes and improve safety. For instance, such analysis would determine two important outcomes; the occurrence of each crime category relative to others, and how each category has changed over time.
+Safety is an important aspect in any country/location. As people's behaviors, beliefs, and life standards vary, achieving a completely crime-free location is almost impossible. However, safety data analysis can serve as a valuable resource for governments, law enforcement agencies, and police forces to assess and adapt their strategies to combat crimes and enhance safety.
+
+Notably, in recent years, drug crimes have emerged as a significantly more prominent issue. This shift underscores the importance of addressing this specific category of crime in our safety analysis. This analysis can reveal the prevalence of each crime category relative to others and it can highlight how each category, especially drug-related crimes, has evolved over time. Highlighting the increasing importance of addressing drug crimes to governments, law enforcement, and police forces is crucial to ensure that resources are used effectively in addressing this growing problem and keeping our communities safe
+
+
 
 This project uses information reported by the Crime Statistics Agency in relation to offences/crimes recorded in Victoria. Data are collected in the form of Excel files. Two Excel files are used in this study; the first file (crimes.xlsx) reports all types of crimes, while the second file (Drugs.xlsx) takes a deeper look into the crimes related to drugs. The data are reported over a few years ending March 2023.
 

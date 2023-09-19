@@ -40,6 +40,7 @@ The jupyter notebook file "DataCleaningAndConversion.ipynb" is used first. The f
 - The two CSV  files are then imported into the SQLite database "crime.sqlite". Tables are produced and, again, all data types are checked.
 - Once the Database is ready, the file "AllCrimes.py" is developed to connect to the database, and introduce two Flask-API links for both tables. These two Flask-API links are the links to be used in the javascript file. The two links are:
   http://localhost:5000/api/v1.0/CrimesInVictoria
+  
   http://localhost:5000/api/v1.0/DrugsOffencesVictoria
 
 

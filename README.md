@@ -7,9 +7,8 @@
 ### **Introduction and Objective**
 Safety is an important aspect in any country/location. As people's behaviors, beliefs, and life standards vary, achieving a completely crime-free location is almost impossible. However, safety data analysis can serve as a valuable resource for governments, law enforcement agencies, and police forces to assess and adapt their strategies to combat crimes and enhance safety.
 
-Notably, in recent years, drug crimes have emerged as a significantly more prominent issue. This shift underscores the importance of addressing this specific category of crime in our safety analysis. This analysis can reveal the prevalence of each crime category relative to others and it can highlight how each category, especially drug-related crimes, has evolved over time. Highlighting the increasing importance of addressing drug crimes to governments, law enforcement, and police forces is crucial to ensure that resources are used effectively in addressing this growing problem and keeping our communities safe
-
-
+This project consists of two significant parts. The first part looks at assessing all types of crimes recorded in Victoria over the last few years. The assessment considers two major aspects; determine the occurrence of each crime type relative to other crime types, and how occurrence/trend of each crime type changed over the years.
+Crimes related to drugs have emerged as a significant and more prominent issue in recent years. Moreover, Drugs not only affect community safety but also people's health and wellbeing, which in turn may add additional strains on the Public Health System. With that in mind, the second part of the project focuses on assessing drug crimes in a similar fashion as explained in the first part.
 
 This project uses information reported by the Crime Statistics Agency in relation to offences/crimes recorded in Victoria. Data are collected in the form of Excel files. Two Excel files are used in this study; the first file (crimes.xlsx) reports all types of crimes, while the second file (Drugs.xlsx) takes a deeper look into the crimes related to drugs. The data are reported over a few years ending March 2023.
 

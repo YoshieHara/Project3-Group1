@@ -20,7 +20,7 @@ As per the project requirements, this project uses the second track: "A dashboar
 
 
 ### **Project Files**
-The following list declares all files used to address the objectives given above.
+The following list declares all files used to address the objectives stated above. Please be aware that all the these files are included in the folder "Project_3_Group_1_Final_Material".
 
 1. crimes.xlsx: This is an Excel file reporting crimes in Victoria from 2014 to 2023. 
 2. Drugs.xlsx: This is an Excel file reporting drugs-related crimes from 2014 to 2023
@@ -31,4 +31,16 @@ The following list declares all files used to address the objectives given above
 7. AllCrimes.py: A Python code to connect to crime.sqlite and generate Flask-API for inclusion in the java script to generate the dashboard 
 8. index.html: An HTML file to activate and run demo.js
 9. style.css: A CSS file to style the dashboard
-10. demo.js: A java script file contains all codes to construct the dashboard (four plots in total)
+10. demo.js: A java script file contains all codes to construct the dashboard (four plots in total).
+
+
+### **How To Use Files - Workflow**
+- All files must be in the same folder in order for the files to work in harmony. 
+The jupyter notebook file "DataCleaningAndConversion.ipynb" is used first. The file reads both Excel files "crimes.xlsx" and "Drugs.xlsx" and converts them into DataFrames. Once in DataFrames, data are QC'ed and data types for all entries in both tables are checked to confirm their suitability. empty rows, if any. are dropped. finally both DataFrames are exported in CSV format. Two files are produced, "crimes.csv" and "drugs.csv". 
+- The two CSV  files are then imported into the SQLite database "crime.sqlite". Tables are produced and, again, all data types are checked.
+- Once the Database is ready, the file "AllCrimes.py" is developed to connect to the database, and introduce two Flask-API links for both tables. These two Flask-API links are the links to be used in the javascript file. The two links are:
+  http://localhost:5000/api/v1.0/CrimesInVictoria
+  http://localhost:5000/api/v1.0/DrugsOffencesVictoria
+
+
+    

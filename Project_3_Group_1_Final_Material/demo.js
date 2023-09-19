@@ -2,25 +2,27 @@
 const apiUrl = 'http://localhost:5000/api/v1.0/CrimesInVictoria';
 const apiUrl2 = 'http://localhost:5000/api/v1.0/DrugsOffencesVictoria';
 
-// Define global variables
+// Define variables
 let data;
 let data2;
 let lineChart;
 let lineChart2;
 let pieChart;
 let barChart;
+
+//these variables used to obtain selected values from HTML form elements.
 let selectOffenceDivision = document.getElementById('selectOffenceDivision');
 let selectYearPie = document.getElementById('selectYearPie');
 let selectYearBar = document.getElementById('selectYearBar');
 let selectOffenceGroup = document.getElementById('selectOffenceGroup');
-let selectOffenceGroup2 = document.getElementById('selectOffenceGroup2'); // Define selectOffenceGroup2
+let selectOffenceGroup2 = document.getElementById('selectOffenceGroup2'); 
 
 
 
 
+// Function to create and update the linechart, "if" for Total for each year and "else" for each division for each year
 function createLineChart(selectedOffenceDivision) {
     if (selectedOffenceDivision === "Total (all divisions)") {
-        // Calculate the sum of all offence divisions for each year
         const yearlyData = {};
         data.forEach(d => {
             const year = d["Year"];
@@ -31,45 +33,47 @@ function createLineChart(selectedOffenceDivision) {
             yearlyData[year] += count;
         });
 
+        //do the Data Extraction After iterating through all the data entries,
         const years = Object.keys(yearlyData);
         const counts = Object.values(yearlyData);
 
-        // Create a line chart with the sum data
+        // and Create a line chart with the sum data, destroy if any exist one from the testing
         const ctxLineChart = document.getElementById('lineChartCanvas').getContext('2d');
         if (lineChart) {
             lineChart.destroy();
         }
         lineChart = new Chart(ctxLineChart, {
-            type: 'line',
+            type: 'line', // set the chart type
             data: {
-                labels: years,
+                labels: years, //xaxis we use years
                 datasets: [{
-                    label: 'OffenceCount',
-                    data: counts,
-                    borderColor: 'steelblue',
-                    backgroundColor: 'rgba(70, 130, 180, 0.3)',
-                    borderWidth: 1
+                    label: 'Offence Count', //for the label of the line
+                    data: counts, //ylabel data
+                    borderColor: 'steelblue', // line color
+                    backgroundColor: 'rgba(70, 130, 180, 0.3)', //dot color
+                    borderWidth: 1 //line tickness
                 }]
             },
             options: {
                 scales: {
                     x: {
                         title: {
-                            display: true,
-                            text: 'Year'
+                            display: true, // to display xaxis
+                            text: 'Year' //name of xaxis
                         }
                     },
                     y: {
                         title: {
                             display: true,
-                            text: 'OffenceCount'
+                            text: 'Offence Count'
                         }
                     }
                 }
             }
         });
+
+    //filter the data to get the details based on the selected OffenceDivision 
     } else {
-        // Filter data based on the selected OffenceDivision
         const filteredData = data.filter(d => d["OffenceDivision"] === selectedOffenceDivision);
 
         // Extract unique Years and corresponding OffenceCount
@@ -94,12 +98,12 @@ function createLineChart(selectedOffenceDivision) {
         lineChart = new Chart(ctxLineChart, {
             type: 'line',
             data: {
-                labels: years,
+                labels: years, //xaxis, const by two section before, 
                 datasets: [{
-                    label: 'OffenceCount',
-                    data: counts,
+                    label: 'Offence Count',  //yaxis
+                    data: counts, // const by two section before
                     borderColor: 'steelblue',
-                    backgroundColor: 'rgba(70, 130, 180, 0.3)',
+                    backgroundColor: 'rgba(70, 130, 180, 0.3)', //dot color as steelblue
                     borderWidth: 1
                 }]
             },
@@ -114,7 +118,7 @@ function createLineChart(selectedOffenceDivision) {
                     y: {
                         title: {
                             display: true,
-                            text: 'OffenceCount'
+                            text: 'Offence Count'
                         }
                     }
                 }
@@ -122,6 +126,7 @@ function createLineChart(selectedOffenceDivision) {
         });
     }
 }
+
 
 
 
@@ -158,7 +163,7 @@ function createPieChart(selectedYear) {
         data: {
             labels: divisions,
             datasets: [{
-                data: percentages,
+                data: counts,
                 backgroundColor: [
                     'rgba(255, 99, 132, 0.7)',
                     'rgba(54, 162, 235, 0.7)',
@@ -178,9 +183,8 @@ function createPieChart(selectedYear) {
                 callbacks: {
                     label: function (tooltipItem, data) {
                         const dataset = data.datasets[tooltipItem.datasetIndex];
-                        const value = dataset.data[tooltipItem.index];
                         const label = data.labels[tooltipItem.index];
-                        return `${label}: ${value}`;
+                        return `${label}: ${dataset.data[tooltipItem.index]}`; // Display label and count
                     }
                 }
             }
@@ -188,9 +192,110 @@ function createPieChart(selectedYear) {
     });
 }
 
+
+
+// Fetch data from the first API URL and populate dropdowns
+fetch(apiUrl)
+    .then(response => response.json())
+    .then(jsonData => {
+        // Store the data
+        data = jsonData;
+
+        // Extract unique OffenceDivisions for the dropdown, 
+        // use  "..." to convert the Set into an arra, otherwise not showing in the dropdown correctly
+        const uniqueOffenceDivisions = [...new Set(data.map(d => d["OffenceDivision"]))];
+
+        // Add "Total (all divisions)" as the first option in the dropdown
+        const totalOption = document.createElement("option");
+        totalOption.value = "Total (all divisions)";
+        totalOption.textContent = "Total (all divisions)";
+        selectOffenceDivision.appendChild(totalOption);
+
+        // Populate the dropdown with OffenceDivision options
+        uniqueOffenceDivisions.forEach(division => {
+            const option = document.createElement("option");
+            option.value = division;
+            option.textContent = division;
+            selectOffenceDivision.appendChild(option);
+        });
+
+        // Add change event listener to the OffenceDivision dropdown
+        selectOffenceDivision.addEventListener("change", function () {
+            const selectedOffenceDivision = this.value;
+            if (selectedOffenceDivision === "Total (all divisions)") {
+                // Calculate the sum of all offence divisions for each year
+                const yearlyData = {};
+                data.forEach(d => {
+                    const year = d["Year"];
+                    const count = d["OffenceCount"];
+                    if (!yearlyData[year]) {
+                        yearlyData[year] = 0;
+                    }
+                    yearlyData[year] += count;
+                });
+
+                const years = Object.keys(yearlyData);
+                const counts = Object.values(yearlyData);
+
+                // Create a line chart with the sum data
+                createLineChart("Total (all divisions)", years, counts);
+            } else {
+                // Filter data based on the selected OffenceDivision
+                const filteredData = data.filter(d => d["OffenceDivision"] === selectedOffenceDivision);
+
+                // Extract unique Years and corresponding OffenceCount
+                const yearlyData = {};
+                filteredData.forEach(d => {
+                    const year = d["Year"];
+                    const count = d["OffenceCount"];
+                    if (!yearlyData[year]) {
+                        yearlyData[year] = 0;
+                    }
+                    yearlyData[year] += count;
+                });
+
+                const years = Object.keys(yearlyData);
+                const counts = Object.values(yearlyData);
+
+                // Create a line chart with the selected offence division data
+                createLineChart(selectedOffenceDivision, years, counts);
+            }
+        });
+
+        // Extract unique years for the pie chart dropdown
+        const uniqueYears = [...new Set(data.map(d => d["Year"]))];
+
+        // Populate the dropdown with unique years for the pie chart
+        uniqueYears.forEach(year => {
+            const option = document.createElement("option");
+            option.value = year;
+            option.textContent = year;
+            selectYearPie.appendChild(option);
+        });
+
+        // Add change event listener to the year dropdown for the pie chart
+        selectYearPie.addEventListener("change", function () {
+            const selectedYear = this.value;
+            createPieChart(selectedYear);
+        });
+
+        // Initialize the line chart and pie chart with default values
+        createLineChart("Total (all divisions)");
+        createPieChart(uniqueYears[0]);
+    })
+    .catch(error => {
+        console.error("Error loading data from the first API URL:", error);
+    });
+
+
+
+
+
+
+// From here use URL2    
+// Function to create and update the linechart2, do the same as the first line chart
 function createLineChart2(selectedOffenceGroup) {
     if (selectedOffenceGroup === "Total (all groups)") {
-        // Calculate the sum of all offence groups for each year in URL2
         const yearlyData2 = {};
         data2.forEach(d => {
             const year = d["Year"];
@@ -214,14 +319,14 @@ function createLineChart2(selectedOffenceGroup) {
         const borderColor = 'steelblue';
         const backgroundColor = 'rgba(70, 130, 180, 0.3)';
         const xTitle = 'Year';
-        const yTitle = 'OffenceCount';
+        const yTitle = 'Offence Count';
 
         lineChart2 = new Chart(ctxLineChart2, {
             type: 'line',
             data: {
                 labels: years2,
                 datasets: [{
-                    label: 'OffenceCount',
+                    label: 'Offence Count',
                     data: counts2,
                     borderColor: 'green',
                     backgroundColor: 'rgba(0, 128, 0, 0.3)', // Change the background color for URL2
@@ -340,7 +445,8 @@ function createBarChart(selectedYear) {
                 label: 'Offence Count',
                 data: counts,
                 backgroundColor: 'rgba(70, 130, 180, 0.7)',
-                borderWidth: 1
+                borderWidth: 1,
+                barThickness:20
             }]
         },
         options: {
@@ -363,111 +469,12 @@ function createBarChart(selectedYear) {
                     }
                 }
             },
-            plugins: {
-                legend: {
-                    display: false
-                }
-            }
         }
     });
-
-    // Adjust bar and category percentages for visibility
-    barChart.options.plugins.barThickness = 'flex';
-    barChart.options.plugins.categoryPercentage = 1.0;
 }
 
 
-// Fetch data from the first API URL and populate dropdowns
-fetch(apiUrl)
-    .then(response => response.json())
-    .then(jsonData => {
-        // Store the data globally
-        data = jsonData;
 
-        // Extract unique OffenceDivisions for the dropdown
-        const uniqueOffenceDivisions = [...new Set(data.map(d => d["OffenceDivision"]))];
-
-        // Add "Total (all divisions)" as the first option in the dropdown
-        const totalOption = document.createElement("option");
-        totalOption.value = "Total (all divisions)";
-        totalOption.textContent = "Total (all divisions)";
-        selectOffenceDivision.appendChild(totalOption);
-
-        // Populate the dropdown with OffenceDivision options
-        uniqueOffenceDivisions.forEach(division => {
-            const option = document.createElement("option");
-            option.value = division;
-            option.textContent = division;
-            selectOffenceDivision.appendChild(option);
-        });
-
-        // Add change event listener to the OffenceDivision dropdown
-        selectOffenceDivision.addEventListener("change", function () {
-            const selectedOffenceDivision = this.value;
-            if (selectedOffenceDivision === "Total (all divisions)") {
-                // Calculate the sum of all offence divisions for each year
-                const yearlyData = {};
-                data.forEach(d => {
-                    const year = d["Year"];
-                    const count = d["OffenceCount"];
-                    if (!yearlyData[year]) {
-                        yearlyData[year] = 0;
-                    }
-                    yearlyData[year] += count;
-                });
-
-                const years = Object.keys(yearlyData);
-                const counts = Object.values(yearlyData);
-
-                // Create a line chart with the sum data
-                createLineChart("Total (all divisions)", years, counts);
-            } else {
-                // Filter data based on the selected OffenceDivision
-                const filteredData = data.filter(d => d["OffenceDivision"] === selectedOffenceDivision);
-
-                // Extract unique Years and corresponding OffenceCount
-                const yearlyData = {};
-                filteredData.forEach(d => {
-                    const year = d["Year"];
-                    const count = d["OffenceCount"];
-                    if (!yearlyData[year]) {
-                        yearlyData[year] = 0;
-                    }
-                    yearlyData[year] += count;
-                });
-
-                const years = Object.keys(yearlyData);
-                const counts = Object.values(yearlyData);
-
-                // Create a line chart with the selected offence division data
-                createLineChart(selectedOffenceDivision, years, counts);
-            }
-        });
-
-        // Extract unique years for the pie chart dropdown
-        const uniqueYears = [...new Set(data.map(d => d["Year"]))];
-
-        // Populate the dropdown with unique years for the pie chart
-        uniqueYears.forEach(year => {
-            const option = document.createElement("option");
-            option.value = year;
-            option.textContent = year;
-            selectYearPie.appendChild(option);
-        });
-
-        // Add change event listener to the year dropdown for the pie chart
-        selectYearPie.addEventListener("change", function () {
-            const selectedYear = this.value;
-            createPieChart(selectedYear);
-        });
-
-        // Initialize the line chart and pie chart with default values
-        createLineChart("Total (all divisions)");
-        createPieChart(uniqueYears[0]);
-    })
-    .catch(error => {
-        console.error("Error loading data from the first API URL:", error);
-    });
 
 // Fetch data from URL2 and populate dropdowns
 fetch(apiUrl2)
@@ -556,9 +563,8 @@ fetch(apiUrl2)
             createBarChart(selectedYear);
         });
 
-        // Initialize the line chart with default values for URL2
+        // Initialize the line chart and bar chart with default values
         createLineChart2("Total (all groups)");
-        // Set the default year for the bar chart
         createBarChart(uniqueYears2[0]);
     })
     .catch(error => {

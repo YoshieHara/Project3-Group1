@@ -9,7 +9,7 @@ Safety is an important aspect in any Country/Location. As people's behaviours, b
 
 This project uses information reported by the Crime Statistics Agency in relation to offences/crimes recorded in Victoria. Data are collected in the form of Excel files. Two Excel files are used in this study; the first file (crimes.xlsx) reports all types of crimes, while the second file (Drugs.xlsx) takes a deeper look into the crimes related to drugs. The data are reported over a few years ending March 2023.
 
-Data Sources Data used in this project is available through the following website: https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data 
+Data used in this project are gathered from the following website (the source): https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data 
 
 The objective of this project is to use available data to investigate the following. 
 1. The relative occurrence of different crime categories in Victoria according to Offence Division (per year)

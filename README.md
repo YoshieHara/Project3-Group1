@@ -6,6 +6,7 @@
 
 ### **Introduction and Objective**
 Safety is an important aspect in any Country/Location. As people's behaviours, beliefs, and life standards are different, a crime-free location is almost impossible to find. With that said, however, safety (crimes) data analysis may act as useful resources for governments, law enforcement and police forces to determine changes/updates in their plans to tackle crimes and improve safety. For instance, such analysis would determine two important outcomes; the occurrence of each crime category relative to others, and how each category has changed over time.
+
 This project uses information reported by the Crime Statistics Agency in relation to offences/crimes recorded in Victoria. Data are collected in the form of Excel files. Two Excel files are used in this study; the first file (crimes.xlsx) reports all types of crimes, while the second file (Drugs.xlsx) takes a deeper look into the crimes related to drugs. The data are reported over a few years ending March 2023.
 
 Data Sources Data used in this project is available through the following website: https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data 
@@ -39,6 +40,7 @@ The following list declares all files used to address the objectives stated abov
 The jupyter notebook file "DataCleaningAndConversion.ipynb" is used first. The file reads both Excel files "crimes.xlsx" and "Drugs.xlsx" and converts them into DataFrames. Once in DataFrames, data are QC'ed and data types for all entries in both tables are checked to confirm their suitability. empty rows, if any. are dropped. finally both DataFrames are exported in CSV format. Two files are produced, "crimes.csv" and "drugs.csv". 
 - The two CSV  files are then imported into the SQLite database "crime.sqlite". Tables are produced and, again, all data types are checked.
 - Once the Database is ready, the file "AllCrimes.py" is developed to connect to the database, and introduce two Flask-API links for both tables. These two Flask-API links are the links to be used in the javascript file. The two links are:
+  
   http://localhost:5000/api/v1.0/CrimesInVictoria
   
   http://localhost:5000/api/v1.0/DrugsOffencesVictoria

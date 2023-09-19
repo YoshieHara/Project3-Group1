@@ -10,13 +10,18 @@ This project uses information reported by the Crime Statistics Agency in relatio
 
 Data Sources Data used in this project is available through the following website: https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data 
 
-The aim of this project is to use available data to investigate the following. 
+The objective of this project is to use available data to investigate the following. 
 1. The relative occurrence of different crime categories in Victoria according to Offence Division (per year)
 2. Year-to-year changes in offence counts for each Offence Division
 3. The relative occurrence of drug crimes according to Drug Offence Groups, and
 4. Year-to-year change in offence counts for each Drug Offence Group (per year).
 
+As per the project requirements, this project uses the second track: "A dashboard with multiple charts that update from the same data".
+
+
 ### **Project Files**
+The following list declares all files used to address the objectives given above.
+
 1. crimes.xlsx: This is an Excel file reporting crimes in Victoria from 2014 to 2023. 
 2. Drugs.xlsx: This is an Excel file reporting drugs-related crimes from 2014 to 2023
 3. DataCleaningAndConversion.ipynb: A jupyter notebook used to prepare data 

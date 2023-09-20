@@ -202,8 +202,11 @@ fetch(apiUrl)
         data = jsonData;
 
         // Extract unique OffenceDivisions for the dropdown, 
-        // use  "..." to convert the Set into an arra, otherwise not showing in the dropdown correctly
+        // use  "..." to convert the Set into an array, otherwise not showing in the dropdown correctly
         const uniqueOffenceDivisions = [...new Set(data.map(d => d["OffenceDivision"]))];
+
+        // Clear the selectOffenceDivision dropdown before populating it
+        selectOffenceDivision.innerHTML = "";
 
         // Add "Total (all divisions)" as the first option in the dropdown
         const totalOption = document.createElement("option");
@@ -290,10 +293,6 @@ fetch(apiUrl)
 
 
 
-
-
-
-
 // From here use URL2    
 // Function to create and update the linechart2, do the same as the first line chart
 function createLineChart2(selectedOffenceGroup) {
@@ -317,12 +316,6 @@ function createLineChart2(selectedOffenceGroup) {
             lineChart2.destroy();
         }
 
-        // Customize chart colors and labels for URL2
-        const borderColor = 'steelblue';
-        const backgroundColor = 'rgba(70, 130, 180, 0.3)';
-        const xTitle = 'Year';
-        const yTitle = 'Offence Count';
-
         lineChart2 = new Chart(ctxLineChart2, {
             type: 'line',
             data: {
@@ -340,13 +333,13 @@ function createLineChart2(selectedOffenceGroup) {
                     x: {
                         title: {
                             display: true,
-                            text: xTitle
+                            text: 'Year'
                         }
                     },
                     y: {
                         title: {
                             display: true,
-                            text: yTitle
+                            text: 'Offence Count'
                         }
                     }
                 }
@@ -393,13 +386,13 @@ function createLineChart2(selectedOffenceGroup) {
                     x: {
                         title: {
                             display: true,
-                            text: xTitle
+                            text: 'Year'
                         }
                     },
                     y: {
                         title: {
                             display: true,
-                            text: yTitle
+                            text: 'Offence Count'
                         }
                     }
                 }

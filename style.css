@@ -1,9 +1,30 @@
-/* Set the background color of the entire page to very pale grey */
+/* Set the color of background in the page */
 body {
-    background-color: #f0f0f0; /* Hexadecimal color code for pale grey */
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
 }
 
-/* Container Styles */
+
+/* Top of Page Style */
+.topofpage {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Canvas Styles */
+canvas {
+    max-width: 500px;
+    max-height: 400px;
+}
+
+/* Centered Text Style */
+.center-text {
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+}
+
 .container {
     max-width: 1500px;
     margin: 0 auto;
@@ -18,7 +39,7 @@ body {
 }
 
 .chart {
-    width: 48%; /* Adjust the width as needed */
+    width: 48%; 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -34,23 +55,3 @@ body {
 }
 
 
-/* Canvas Styles */
-canvas {
-    max-width: 500px;
-    max-height: 400px;
-}
-
-/* Centered Text Style */
-.center-text {
-    text-align: center;
-    margin-top: 20px;
-    background-color: lightgray;
-    color: black;
-}
-
-/* Top of Page Style */
-.topofpage {
-    font-size: 40px;
-    text-align: center;
-    margin-bottom: 20px;
-}

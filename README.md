@@ -73,5 +73,18 @@ The first image below is from the "AllCrimes.py" showing defined routes for both
                These charts visualize various aspects of crime data for Victoria.
 
 
+5.These are the final outcomes of the data visualisation. below shows four graphs which displays the data of the two data files, "crimes.csv" and "drugs.csv":
+   The first two graphs display a Pie graph displaying the different Crime types being project as a Pie Graph and the crime trends over the years as a Line Graph. The Pie Graph have a drop down list which can filter the different years. The Line Graph also have a drop down list which filters the different crime types.
+![image](https://github.com/YoshieHara/Project3-Group1/assets/132328885/0612d074-26ec-432c-a82c-b45551ec62c8)
 
-    
+![image](https://github.com/YoshieHara/Project3-Group1/assets/132328885/2d930994-4d9f-4d5c-8b26-eccd3ee8bb21)
+
+   The last two graphs display a Bar graph of the different drug offences and a line graph for the Drug crime trends over the years. The Line Graph have a drop-down list which can filter the different years, and the Line Graph also have a drop down list which filters the different Drug crime types.
+![image](https://github.com/YoshieHara/Project3-Group1/assets/132328885/968700b8-329e-49ff-a32e-a2fa00b748c6)
+
+![image](https://github.com/YoshieHara/Project3-Group1/assets/132328885/16dfe643-f936-40f4-a6bf-b3baeebbbd0d)
+
+   *All graphs have a interactive display box when you hover your mouse over it to show further information or statistics.
+
+6. Conclusion:
+     In summary, safety data analysis is vital for adaptive government and law enforcement strategies. With a recent surge in drug-related crimes, our study, using Crime Statistics Agency data from Victoria up to March 2023, aims to inform better interventions and boost community safety.
